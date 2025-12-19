@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Cafe cafe = new Cafe();
         Customer customer = new Customer("Alikhan");
-        MenuItem coffee = new MenuItem("'Espresso' Coffee for 500ml", 1400);
+        MenuItem coffee = new MenuItem("'Espresso' Coffee for 500ml", 2000);
         MenuItem tea = new MenuItem("'Black' Tea for 450ml", 800);
         MenuItem cake = new MenuItem("'Sunshine' Cake 400g", 1500);
 
